@@ -1,0 +1,72 @@
+(1). Dasar HTML
+
+  Dalam bab ini kita akan menunjukkan beberapa contoh HTML dasar.
+
+(2). Dokumen HTML
+
+  1. Semua dokumen HTML harus dimulai dengan deklarasi tipe dokumen : <!DOCTYPE html>.
+  2. Dokumen HTML itu sendiri dimulai dengan elemen <html> dan diakhiri degan elemen </html>.
+  3. Bagian yang terlihat dari dokumen HTML adalah antara elemen <body> dan elemen </body>.
+
+  Contoh:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>Judul halaman Web</title>
+    </head>
+    <body>
+
+    <h1>Judul pertama saya</h1>
+    <p>Paragraf pertama saya</p>
+
+    </body>
+    </html>
+
+(3). Deklarasi <!DOCTYPE html>
+
+  1. Deklarasi <!DOCTYPE> mewakili jenis dokumen, dan membantu browser untuk menampilkan halaman Web dengan benar.
+  2. Itu hanya boleh muncul sekali, dibagian atas halaman (sebelum tag HTML apapun).
+  3. Deklarasi <!DOCTYPE> tidak peka terhadap huruf besar dan kecil.
+  4. Deklarasi <!DOCTYPE> untuk HTML5 adalah: <!DOCTYPE html>.
+
+(4). Judul HTML
+
+  1. Judul HTML didefinisikan dengan tag <h1> sampai tag <h6>.
+  2. Tag <h1> mendefinisikan judul yang paling penting.
+  3. Tag <h6> mendefinisikan judul yang paling tidak penting.
+
+  Contoh:
+
+    <h1>Ini judul 1</h1>
+    <h2>Ini judul 2</h2>
+    <h3>Ini judul 3</h3>
+
+(5). Paragraf HTML
+
+  Paragraf HTML didefinisikan dengan tag <p>.
+
+  Contoh:
+  
+    <p>Ini paragraf 1</p>
+    <p>Ini paragraf 2</p>
+    <p>Ini paragraf 3</p>
+
+(6). Tautan HTML
+
+  Tautan HTML didefinisikan dengan tag <a>.
+
+  Contoh:
+
+    <a href="https://google.com">Klik disini untuk mengunjungi Google.</a>
+
+(7). Gambar HTML
+
+  1. Gambar HTML didefinisikan dengan tag <img>.
+  2. File sumber didefinisikan dengan atribut src.
+  3. Teks alternatif didefinisikan dengan atribut alt.
+  4. Mengbah ukuran gambar didefinisikan degan atribut width dan height.
+
+  Contoh:
+
+    <img src="Gambar.jpg" alt="Teks alternatif gambar" width="Lebar gambar" height="Tinggi gambar">  
