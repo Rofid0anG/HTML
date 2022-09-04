@@ -23,4 +23,4 @@
     </html>
 
   3. Simpan file HTML dengan nama file index.html
-  4. Lihat halaman HTML di browser anda, dengan klik kanan kemudian, klik open with browser anda.
+  4. Lihat halaman HTML di browser anda, dengan klik kanan file HTML kemudian, klik open with browser anda.
