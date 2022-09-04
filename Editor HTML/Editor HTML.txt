@@ -9,18 +9,18 @@
 
   Contoh:
 
-  <!DOCTYPE html>
-  <html>
-  <head>
-  <title>Judul halaman Web</title>
-  </head>
-  <body>
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>Judul halaman Web</title>
+    </head>
+    <body>
 
-  <h1>Judul pertama saya</h1>
-  <p>Paragraf pertama saya</p>
+    <h1>Judul pertama saya</h1>
+    <p>Paragraf pertama saya</p>
 
-  </body>
-  </html>
+    </body>
+    </html>
 
   3. Simpan file HTML dengan nama file index.html
-  4. Lihat halaman HTML di browser anda, dengan klik kanan pada file HTML kemudian, klik open with browser anda.
+  4. Lihat halaman HTML di browser anda, dengan klik kanan kemudian, klik open with browser anda.
