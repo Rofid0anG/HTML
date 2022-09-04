@@ -1,0 +1,26 @@
+(1). Editor HTML
+
+  Anda hanya perlu editor teks sederhana untuk mempelajari HTML.
+
+(2). Belajar HTML menggunakan Notepad
+
+  1. Buka Notepad.
+  2. Tulis beberapa kode HTML.
+
+  Contoh:
+
+  <!DOCTYPE html>
+  <html>
+  <head>
+  <title>Judul halaman Web</title>
+  </head>
+  <body>
+
+  <h1>Judul pertama saya</h1>
+  <p>Paragraf pertama saya</p>
+
+  </body>
+  </html>
+
+  3. Simpan file HTML dengan nama file index.html
+  4. Lihat halaman HTML di browser anda, dengan klik kanan pada file HTML kemudian, klik open with browser anda.
